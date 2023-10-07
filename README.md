@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Branch Startup Studio (Revive and Branch Startup Studio)
+- 🔭 I’m currently working on Revive Real Estate
 - 🌱 Live long learning
 - 👯 I’m looking to collaborate on passion projects that better our ocean
 - 🤔 Always looking to grow in technology and entrepreneurship 
