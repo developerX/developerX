@@ -7,4 +7,4 @@
 - 💬 Ask me about software development, saltwater fish, and scuba diving
 - 📫 How to reach me on IG: mansoorbahramand
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=developerX)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-git-dependabot-npmandyarn-d5470e-developerx.vercel.app/api?username=developerX)](https://github.com/anuraghazra/github-readme-stats)
